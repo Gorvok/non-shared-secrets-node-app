@@ -1,0 +1,25 @@
+{
+  "name": "non-shared-secrets-node-app",
+  "version": "1.0.0",
+  "description": "# Non-Shared Secrets Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gorvok/non-shared-secrets-node-app.git"
+  },
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gorvok/non-shared-secrets-node-app/issues"
+  },
+  "homepage": "https://github.com/Gorvok/non-shared-secrets-node-app#readme"
+}
